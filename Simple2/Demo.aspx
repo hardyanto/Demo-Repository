@@ -8,7 +8,7 @@
 </head>
 <body>
     <form id="form1" runat="server">
-       <div><%Response.Write("Continuous Integration"); %></div>
+       <div><%Response.Write("Continuous Integrations"); %></div>
     </form>
 </body>
 </html>
